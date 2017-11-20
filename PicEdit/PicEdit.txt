@@ -1,0 +1,1 @@
+./Debug/main.c.o ./Debug/bmpPic.c.o ./Debug/config.c.o
